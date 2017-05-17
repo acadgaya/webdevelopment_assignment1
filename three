@@ -5,7 +5,10 @@
 </head>
 <body>
 <hearder> This is my Header</header>
-<section> This is the body of the page, it is used to create the subsection of the page</section> 
+<section> This is the body of the page, it is used to create the subsection of the page <sub>subscript</sub><br>
+<sup>superscript</sup>
+
+</section> 
 <footer>This is the footer of the page</footer>
 </body>
 </html>

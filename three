@@ -1,0 +1,11 @@
+<!doctype html>
+<html>
+<head>
+<title> Design HTML Page which includes Ssuscript and superscript</title>
+</head>
+<body>
+<hearder> This is my Header</header>
+<section> This is the body of the page, it is used to create the subsection of the page</section> 
+<footer>This is the footer of the page</footer>
+</body>
+</html>

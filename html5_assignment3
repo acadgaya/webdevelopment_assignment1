@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Design HTMl which includes Subcript and Superscsritp</title>
+
+</head>
+
+<body>
+<header>
+<nav align="right">
+
+<li>Home</li><li>Aboutus</li><li>Contactus</li>
+</nav>
+</header>
+<section>
+<h2>Web development heading</h2>
+HTML5 is a markup language used for <del>nonstructured</del> structuring and presenting <sub>content</sub> on the <sup>World Wide Web</sup>. It is the fifth and current version of the HTML standard.
+</section>
+<body>
+</html>
